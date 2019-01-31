@@ -71,14 +71,14 @@ exit
 
 echo -e $cyan" __ ___ _______ ______ __ "
 
-echo -e $green" ____                   ____          ___      ___ "
+echo -e $green"  ____                      ____            ___      ___ "
 
-echo -e $white" |        \             /         \        \     \/      / "
-echo -e $red" |     |      \       /  --------  \        \          / "
+echo -e $white" |          \           /         \        \     \/      / "
+echo -e $red"   |     |      \       /  --------  \        \          / "
 
-echo -e $cyan"|     |      /     /    --------    \        |         | "
+echo -e $cyan". |     |      /     /    --------    \        |       | "
 
-echo -e $green" |___    /      /                     \      | ___  | "
+echo -e $green" |___    /      /                     \       | ___  | "
 
 echo ""
 
